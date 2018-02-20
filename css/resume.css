@@ -11,7 +11,9 @@ body {
   }
 }
 
-h1,
+h1{
+  font-family: 'Rochester', cursive;
+}
 h2,
 h3,
 h4,
@@ -44,7 +46,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #BD5D38;
+  color: #bd5d38;
 }
 
 .list-social-icons a .fa-lg {
